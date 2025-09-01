@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/traffic-project.git
+git clone https://github.com/abhinavabahdursingh/SIH2025
 
 
 Navigate to the project folder:
@@ -45,11 +45,10 @@ npm install  # or pip install -r requirements.txt
 
 Run the application:
 
-npm start  # or python app.py
+ python app.py
 
 Usage
 
-Open the dashboard in your browser at http://localhost:3000
 
 Monitor live traffic data
 
