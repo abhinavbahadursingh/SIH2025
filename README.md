@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" alt="logo" width="120" />
   <h1>🚦 Traffic Management System</h1>
   <p>An AI-powered, futuristic system to monitor traffic, detect accidents, and optimize flow in real-time.</p>
 
